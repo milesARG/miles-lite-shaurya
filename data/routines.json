@@ -1,0 +1,35 @@
+{
+ "work": {
+  "steps": [
+   "open Visual Studio Code",
+   "open Claude",
+   "play lofi beats on Spotify",
+   "volume 30"
+  ],
+  "say": "Work protocol engaged. Let's build something remarkable."
+ },
+ "gaming": {
+  "steps": [
+   "open Steam",
+   "open Discord",
+   "volume 60"
+  ],
+  "say": "Gaming protocol engaged. Good hunting."
+ },
+ "focus": {
+  "steps": [
+   "minimize everything",
+   "play deep focus on Spotify",
+   "volume 25"
+  ],
+  "say": "Focus protocol engaged. I'll keep things quiet."
+ },
+ "night": {
+  "steps": [
+   "dark mode",
+   "pause the music",
+   "volume 15"
+  ],
+  "say": "Night protocol engaged. Rest well."
+ }
+}
